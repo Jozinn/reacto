@@ -1,2 +1,2 @@
-# recto
+# reacto
 state and propos training
